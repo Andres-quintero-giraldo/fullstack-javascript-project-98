@@ -5,8 +5,8 @@
   "description": "brain-games.js",
   "main": "index.js",
   "bin": {
-  "brain-games": "bin/brain-games.js"
-},
+    "brain-games": "bin/brain-games.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,6 +19,8 @@
   "bugs": {
     "url": "https://github.com/Andres-quintero-giraldo/fullstack-javascript-project-98/issues"
   },
-  "homepage": "https://github.com/Andres-quintero-giraldo/fullstack-javascript-project-98#readme"
+  "homepage": "https://github.com/Andres-quintero-giraldo/fullstack-javascript-project-98#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
-
