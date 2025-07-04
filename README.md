@@ -1,2 +1,3 @@
 ### Hexlet tests and linter status:
+[![Maintainability](https://api.codeclimate.com/v1/badges/e32b039849c33236383d/maintainability)](https://codeclimate.com/github/Andres-quintero-giraldo/fullstack-javascript-project-98/maintainability)
 [![Actions Status](https://github.com/Andres-quintero-giraldo/fullstack-javascript-project-98/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Andres-quintero-giraldo/fullstack-javascript-project-98/actions)
